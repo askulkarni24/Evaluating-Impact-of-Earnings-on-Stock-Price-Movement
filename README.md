@@ -1,6 +1,3 @@
-# fre6883_finalproject-team-3
-fre6883_finalproject-team-3 created by GitHub Classroom
-
 # Evaluating the impact of quarterly earnings report on stock price movement
 
 ### Programming Requirements:
